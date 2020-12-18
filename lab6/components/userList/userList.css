@@ -1,0 +1,16 @@
+#user{
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+#avatar {
+    border: 3px solid orange;
+    margin-bottom: 5px;
+}
